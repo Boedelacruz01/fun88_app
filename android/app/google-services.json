@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061329638408",
+    "project_id": "fun88-project",
+    "storage_bucket": "fun88-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061329638408:android:dd668bba59ab311055adbd",
+        "android_client_info": {
+          "package_name": "com.example.fun88_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZKj2_oa68_kf-IQRjBdHIxF0kFixHcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
